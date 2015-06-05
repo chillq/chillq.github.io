@@ -1,0 +1,20 @@
+---
+layout: post
+title: Cải thiện sức khỏe từ thực phẩm!
+---
+
+## List các thực phẩm phù hợp với nhóm máu.
+
+ ...Thực phẩm mang tính quyết định và không thể bỏ qua lợi ích của nó mang lại cho cơ thể về sắc đẹp cũng như sức khỏe của chúng ta.Mọi người có đang nhận thức được rằng, cơ thể của bạn sẽ hạnh phúc biết bao nếu được cung cấp những thực phẩm với đủ chất dinh dưỡng?  Chính vì vậy, lần này tôi xin giới thiệu tới các bạn bài viết về sử dụng các loại rau củ có hàm lượng chất dinh dưỡng tốt cho tim và sức khỏe phù hợp với từng nhóm máu.
+![image](/res/food/51add593a05d7ddfc0393c79c5d90184.jpeg) ### Mối quan hệ giữa nhóm máu và thực phẩm.
+Theo Peter J Dadamo, từ kết quả nghiên cứu và nghiên cứu tôi đã chứng minh rằng những bệnh dễ mắc phải do nhóm máu và chế độ ăn uống cùng với tập thể dục cũng cho kết quả khác nhau. Tùy theo nhóm máu, thì nếu ăn gì, như thế nào thì có thể mang lại dưỡng chất tốt nhất cho cơ thể, đây cũng là phương pháp ăn uống tốt cho việc giảm cân. 
+![image](/res/food/Untitled.1png.png)
+   **Những loại thực phẩm được khuyên dung theo từng nhóm máu:**
+**Đối với nhóm máu A:**
+![image](/res/food/Untitled.2png.png) * **Những người nhóm máu A là những dân tộc làm nghề nông:**  Rau và ngũ cốc tốt cho cơ thể, đối với rau củ thì có màu xanh và vàng (rau cải, bí đỏ chẳng hạn...)Những sản phẩm từ đậu nành, cà rốt, gừng.  Về cá thì cá thu, cá mòi.  Về trái cây thì Berry và dứa được khuyên dùng.
+**Đối với nhóm máu B**
+![image](/res/food/Untitled.3png.png) * **Nguồn gốc của nhóm máu B là từ những dân tộc du mục:**  Men tiêu hoá giúp cơ thể có thể đáp ứng được với đa dạng các loại thức ăn khác nhau. Những thực phẩm như rau xanh, thịt, trứng, lever và chủ yếu vẫn là các sản phẩm từ sữa. Thực phẩm khuyên dùng là các loại thịt đỏ (như bò, cừu), cá hồi, cá chó, cá mòi, cá bơn. Trái cây là chuối, berry, anh đào chẳng hạn... **Đối với nhóm máu O**
+![image](/res/food/Untitled4.png) * **Nguồn gốc của nhóm máu O là những dân tộc đi săn bắn:**  Enzyme tiêu hóa cũng phát triển hơn nhóm máu khác. Thay thế những loại thực phẩm từ sữa, ngũ cốc gây khó khăn cho việc tiêu hóa. Nên ăn các loại thực phẩm có hàm  lượng protein cao ,và giảm thực thực phẩm có hàm lượng carbohydrate để tốt cho tim. Thực phẩm khuyên dùng từ thịt đỏ (thịt bò, thịt cừu) bí đỏ, cá tuyết,v cá biển, rong biển, đậu bắp, trái cây là berry, mận khô…**Đối với nhóm máu AB**
+![image](/res/food/Untitled5.png)* **Nhóm máu AB là nhóm máu mới nhất trong lịch sử:**  Vì về cơ bản là nó có cả những đặc trưng của nhóm máu A và nhóm máu B, nếu ý thức được việc cân bằng các nguồn dưỡng chất từ thực phẩm được thì tốt. Thực phẩm được khuyên dùng như các sản phầm từ đậu nành (đậu phụ và natto) cá ngừ, cá hồi, cá chó, rau có màu xanh đậm (bông cải xanh, rau bina) trái cây nên chọn dòng họ nhà cam như chanh và bưởi chẳng hạn...
+**Mặt tích cực của thực phẩm phù hợp với cơ thể:**  
+Chỉ cần thay đổi một chút về thực phẩm, cách ăn uống thì kể cả sức khỏe của bạn cũng sẽ trở nên tốt hơn, mà thân hình cũng thon gọn hơn, và cũng sẽ quên rằng mình đang ăn kiêng. Nếu như vừa ăn ngon, vừa giảm cân lại vừa tốt cho sức khỏe thì các bạn nhất định hãy ghi nhớ những điều này nhé!
