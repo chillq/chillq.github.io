@@ -21,7 +21,8 @@ Americano, Caffe Latte, Caffe Mocha, Capuccino, Affogato ♫   Cái nào bạn 
 ![image](/res/coffeemaker/6.jpeg) Trích từ nguồn： 
 ` http://www.techjo.jp `Pha cà phê với máy pha Espresso machine, sau đó hòa với sữa và Caramel 
 ![image](/res/coffeemaker/7.jpeg) Trích từ nguồn： 
-` http://www.techjo.jp `Tuy nhiên, dù xem là Cà phê đã pha xong nhưng không phải là hoàn thiện!  Trang trí theo sở thích dù một chút chẳng hạn như là dùng tách cà phê, trang trí bên trên tách cà phê, hay như straw thì đây mới là điều tuyệt vời ♫  Hãy tăng số lượng sưu tập những tách cà phê mà chính bạn pha chế bằng cách lưu lại vào Gallery hay Camera album. ☆![image](/res/coffeemaker/8.jpeg)Trích từ nguồn： 
+` http://www.techjo.jp `Tuy nhiên, dù xem là Cà phê đã pha xong nhưng không phải là hoàn thiện!  Trang trí theo sở thích dù một chút chẳng hạn như là dùng tách cà phê, trang trí bên trên tách cà phê, hay như straw thì đây mới là điều tuyệt vời ♫  Hãy tăng số lượng sưu tập những tách cà phê mà chính bạn pha chế bằng cách lưu lại vào Gallery hay Camera album. ☆![image](/res/coffeemaker/8.jpeg)
+Trích từ nguồn： 
 ` http://www.techjo.jp `Sau khi hoàn thành một tách Cà phê Latte thì dù gì bạn chắc hẳn sẽ muốn thử pha chế Latte Art đúng không nhỉ ?  Dĩ nhiên , Latte Art cũng nghĩ như vậy.☆  Không chỉ là tưởng tượng thôi đâu, mà những tấm ảnh từ Camera roll cũng có thể trở thành những tách Cà phê Latte Art thực sự. ♫  Nhất định bạn hãy thử pha cho mình 1 tách cà phê với mùi vị yêu thích nhé ! ♫  
 
 **Link Download:** [Coffee Maker][]
