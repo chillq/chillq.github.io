@@ -31,7 +31,7 @@ Americano, Caffe Latte, Caffe Mocha, Capuccino, Affogato ♫   Cái nào bạn 
 
 **Trích từ nguồn :** 
 
-**ラテアートも思いのまま！『コーヒーメーカー』で究極の1杯を淹れよう！**
+**ラテアートも思いのまま！『コーヒーメーカー』で究極の1杯を淹れよう!**
 
 ` http://beauty.yahoo.co.jp/app/articles `
 
