@@ -1,6 +1,6 @@
 ---
 layout: post  
-title: Starbucks  
+title: Starbucks Holic
 comments: true  
 category: general  
 tags: []
