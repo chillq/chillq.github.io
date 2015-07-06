@@ -1,9 +1,11 @@
 ---
 layout: post  
-title:   
+title: joysound  
 comments: true  
 category: general  
 tags: []
+---
+
 ## 『カシレボ！』đối ứng trên Apple Music！Khi đó hát Karaoke tại nhà cũng trở nên thú vị hơn♪
 
 App『カシレボ！JOYSOUND』liên kết với  JOYSOUND, nay đã đối ứng trên  Apple Music！  Với App này bạn có thể vừa nhìn lời và vừa hát Karaoke của bài hát đang play  trên  Apple music ☆  Ở nhà bạn cũng có thể hát Karaoke dễ dàng ♪ Cách sử dụng cũng rất đơn giản！  
