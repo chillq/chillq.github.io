@@ -4,7 +4,7 @@ title: downloadmovie
 comments: true  
 category: general  
 tags: [downloadmovie]
----## Browser kèm tính năng download Movie.
+---## Browser kèm tính năng download Movie.
 ![image](/res/downloadmovie/1.png) Trích từ nguồn：   http://www.womanapps.netTrình duyệt của Smartphone có đầy đủ các tính năng hỗ trợ.  Mọi người có sử dụng trình duyệt của smartphone kể từ lần đầu tiên sử dụng nó không? Smartphone Browser có đầy đủ tính năng và rất thú vị. Browser này của Smartphone có tính năng download movie.   【Movie Box（free）】
 ![image](/res/downloadmovie/2.jpeg)
 Trích từ nguồn：   http://www.womanapps.net■Android[https://play.google.com/store/apps/details?id=com.enjoy.moviebox][]
@@ -21,7 +21,7 @@ tags: [downloadmovie]
 ■Android=> [https://play.google.com/store/apps/details?id=com.enjoy.moviebox][]
  [https://play.google.com/store/apps/details?id=com.enjoy.moviebox]: https://play.google.com/store/apps/details?id=com.enjoy.moviebox
  **Trích từ nguồn :** 
-『動画ダウンロード機能付きブラウザ**
+**動画ダウンロード機能付きブラウザ**
 
 `http://beauty.yahoo.co.jp/app/articles/ `
 
