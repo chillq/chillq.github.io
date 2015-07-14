@@ -1,6 +1,6 @@
 ---
 layout: post  
-title: downloadmovie  
+title: Downloadmovie  
 comments: true  
 category: general  
 tags: []
