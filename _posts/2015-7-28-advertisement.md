@@ -1,6 +1,6 @@
 ---
 layout: post  
-title: News  
+title: Advertisement  
 comments: true  
 category: general  
 tags: []
