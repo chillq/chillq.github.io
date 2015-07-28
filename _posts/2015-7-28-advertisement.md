@@ -6,7 +6,7 @@ category: general
 tags: []
 ---
 
-## Google, Khuyến cáo không sử dụng và [Hiệu quả ngược của Quảng cáo Download App toàn màn hình].   
+## Google, Khuyến cáo không sử dụng và [Hiệu quả ngược của Quảng cáo Download App hiển thị toàn màn hình].   
 
 
 Google America vào ngày 23 tháng Bảy (giờ địa phương), theo kết quả từ việc xem xét hiệu quả của Interstitial ad khuyến khích người dùng download các ứng dụng.      “Kiểu quảng cáo Interstitial ad hiển thị trước khi người dùng có thể truy cập vào nội dung cần xem, đôi khi họ còn phải đợi một khoảng thời gian để quảng cáo hiển thị. Interstitial ad là một dạng của kiểu marketing gián đoạn (interruption marketing).” 
