@@ -1,6 +1,6 @@
 ---
 layout: post  
-title: Apple requirement HTTPS for iOS's App.   
+title: Apple require HTTPS for iOS's App.   
 comments: true  
 category: general
 tags: []
