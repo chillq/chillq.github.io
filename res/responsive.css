@@ -30,16 +30,5 @@
   background-repeat: no-repeat;
   background-size: cover;
 }
+#site {background-image: url("/res/img/aa.jpg"); } 
 
-/* Images used */
-.img1 { background-image: url("img_a.jpg"); }
-.img2 { background-image: url("img_b.jpg"); }
-.img3 { background-image: url("img_c.jpg"); }
-.img4 { background-image: url("img_d.jpg"); }
-.img5 { background-image: url("img_e.jpg"); }
-.img6 { background-image: url("img_f.jpg"); }
-.img7 { background-image: url("img_g.jpg"); }
-.img8 { background-image: url("img_h.jpg"); }
-
-#site {background-image: url("/res/img/a.jpg"); } 
-#site {background-image: url("/res/img/b.jpg"); } 
