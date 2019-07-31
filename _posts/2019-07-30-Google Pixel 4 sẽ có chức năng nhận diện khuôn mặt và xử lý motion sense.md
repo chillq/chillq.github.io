@@ -36,7 +36,7 @@ Người dịch sang Japanese：滑川海彦 (namegawa)
 
 **Trích từ nguồn :** 
 
-**Google’s Pixel 4 smartphone will have motion control and face unlock**
+**Google’s Pixel 4 smartphone will have motion control and face unlock/**
 
 `https://jp.techcrunch.com/2019/07/30/2019-07-29-googles-pixel-4-smartphone-will-have-motion-control-and-face-unlock/`
 
