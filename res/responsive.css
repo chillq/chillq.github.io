@@ -17,9 +17,9 @@
 #myBtn:hover {
   background-color: rgb(90, 36, 36); /* Add a dark-grey background on hover */
 }
-{
+/* {
   box-sizing: border-box;
-}
+} */
 
 .bg-image {
   /* Full height */
@@ -40,3 +40,5 @@
 .img6 { background-image: url("img_f.jpg"); }
 .img7 { background-image: url("img_g.jpg"); }
 .img8 { background-image: url("img_h.jpg"); }
+
+#site{background-image: url("/res/a.jpg");}
