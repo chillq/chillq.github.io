@@ -32,11 +32,11 @@
 }
 
 /* Images used */
-.img1 { background-image: url("a.jpg"); }
-.img2 { background-image: url("b.jpg"); }
-.img3 { background-image: url("c.jpg"); }
-.img4 { background-image: url("d.jpg"); }
-.img5 { background-image: url("e.jpg"); }
-.img6 { background-image: url("f.jpg"); }
-.img7 { background-image: url("g.jpg"); }
-.img8 { background-image: url("h.jpg"); }
+.img1 { background-image: url("img_a.jpg"); }
+.img2 { background-image: url("img_b.jpg"); }
+.img3 { background-image: url("img_c.jpg"); }
+.img4 { background-image: url("img_d.jpg"); }
+.img5 { background-image: url("img_e.jpg"); }
+.img6 { background-image: url("img_f.jpg"); }
+.img7 { background-image: url("img_g.jpg"); }
+.img8 { background-image: url("img_h.jpg"); }
