@@ -9,7 +9,7 @@
   border: none;
   outline: none;
   background-color: gray;
-  color: white;
+  color: rgb(139, 107, 107);
   cursor: pointer;
   padding: 15px;
   border-radius: 50%;
@@ -30,5 +30,5 @@
   background-repeat: no-repeat;
   background-size: cover;
 }
-#site {background-image: url("/res/img/aa.jpg"); } 
+#site {background-image: url("/res/img/ab.jpg"); } 
 
