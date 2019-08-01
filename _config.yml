@@ -1,6 +1,6 @@
 timezone: Europe/Berlin
 highlighter: pygments
-markdown: redcarpet
+markdown: kramdown
 permalink: /post/:title
 
 redcarpet:
