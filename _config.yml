@@ -1,5 +1,5 @@
 timezone: Europe/Berlin
-highlighter: pygments
+highlighter: rouge
 markdown: kramdown
 permalink: /post/:title
 
