@@ -13,7 +13,7 @@ tags: []
 2020/01/09: Bài viết của Frederic Lardinois 
 (https://jp.techcrunch.com/contributor/frederic-lardinois/)
 
-![image](/res/climacell-at-5.50.50-pm.png)
+![image](/res/Climacell/climacell-at-5.50.50-pm.png)
 
 ClimaCell, một công ty công nghệ về khí tượng, đã sử dụng một số phương pháp tiếp cận mới đầy sáng tạo để thu thập dữ liệu thời tiết và xây dựng các mô hình dự báo thời tiết.
 Vào ngày 7 tháng 1 năm nay, ClimaCell thông báo rằng sẽ hợp tác với Google Cloud để cung cấp một mô hình dự báo thời tiết với độ phân giải cao. Đây là mô hình đầu tiên và tập trung vào Ấn Độ, và dự định sẽ sớm mở rộng đến các khu vực khác. Climacell và Google sẽ thực hiện một program dự báo thời tiết miễn phí thông qua Google Cloud Public Datasets.
