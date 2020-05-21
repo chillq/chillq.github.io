@@ -30,5 +30,5 @@
   background-repeat: no-repeat;
   background-size: cover;
 }
-#site {background-image: url("/res/img/ab.jpg"); } 
+#site {background-image: url("/res/img/ab.jpg"); background-repeat: no-repeat; background-size: cover;} 
 
